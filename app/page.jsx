@@ -20,7 +20,7 @@ export default function Portfolio() {
           </a>
 
           {/* EDIT: Your GitHub URL */}
-          <a href="https://github.com/netizen-experience" target="_blank" rel="noopener noreferrer"
+          <a href="https://github.com/jesslynwmc18" target="_blank" rel="noopener noreferrer"
              className="hover:text-indigo-600 transition-colors">
             GitHub
           </a>
