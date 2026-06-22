@@ -34,7 +34,7 @@ export default function Portfolio() {
 
         {/* Download Resume button — replace /resume.pdf in /public with your own PDF */}
         <div className="pt-2">
-          <a href="/resume.pdf" download
+          <a href="/Jesslyn_Resume.pdf" download
              className="inline-block bg-indigo-600 text-white px-6 py-2.5 rounded-lg text-sm font-medium hover:bg-indigo-700 transition-colors">
             Download Resume
           </a>
